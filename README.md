@@ -11,11 +11,15 @@ Authors:
 
 Overview:
 
-Implements a matrix structure.
+Implements a matrix structure. Include methods to modify the structure through insertions, deletions as well as methods to access values.
 
 ---
 
 Citations:
+
+Instructions for the miniproject:
+https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/mps/mp06.html
+Additional instructions for equals method from Samuel Rebelsky
 
 ---
 
